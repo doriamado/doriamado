@@ -20,5 +20,5 @@ Sou um Desenvolvedor Back-end em formação e busco desenvolver aplicações que
 
 ## 📞 Entre em Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/dori-amado-vital-9b424936b/
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]dorivital047@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dori-amado-vital-9b424936b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dorivital047@gmail.com)
