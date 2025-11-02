@@ -8,7 +8,6 @@
 
 Sou um Desenvolvedor Back-end em formação e busco desenvolver aplicações que gerem grande impacto. Atualmente, estou focado em aprofundar meus conhecimentos em Java e arquiteturas de Microsserviços, sempre com foco na qualidade do código e nas práticas de DevOps.
 
-* Estudante no Senac Distrito Criativo.
 * Interessado em: Engenharia da Computação, Ciências da Computação, ADS,  (**AWS/GCP**), Filas de Mensageria (**RabbitMQ/Kafka**) e Testes Automatizados.
 
 <p align="center">
